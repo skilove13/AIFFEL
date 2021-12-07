@@ -27,3 +27,4 @@ image_dir_path = os.getenv("HOME") + "/aiffel/rock_scissor_paper/scissor"
 resize_image(image_dir_path)
 
 print("가위 바위보 resize 완료")
+print("new start")
